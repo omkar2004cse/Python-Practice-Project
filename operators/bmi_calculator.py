@@ -1,0 +1,6 @@
+print("Welcome in BMI Calculator")
+name=input("Enter a your Name is:-")
+weight=float(input("Enter a Weight of person in Kg is:-"))
+height=float(input("Enter a Height of person in meter is:-"))
+bmi=weight/(height**2)
+print("BMI of",name,"is:-",bmi)

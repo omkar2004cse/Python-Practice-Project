@@ -1,0 +1,5 @@
+l=eval(input("Enter a list element:-"))
+print("list is:-",l)
+li=input("Enter a list element:-").split()
+print("list is:-",li)
+print("type is:-",type(li))

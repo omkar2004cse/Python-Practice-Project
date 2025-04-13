@@ -1,0 +1,8 @@
+a,b=int(input("Enter a Frist Number is:-")),int(input("Enter a Second Number is:-"))
+print("Addition is",(a+b))
+print("Substraction is:-",(a-b))
+print("Multiplication is:-",(a*b))
+print("Division is:-",(a/b))
+print("reminder is:-",(a%b))
+print("integer division is (floor division operator):-",(a//b))
+print("power of",a,"to",b,"is:-",(a**b))

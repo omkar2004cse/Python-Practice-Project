@@ -1,0 +1,1 @@
+l1=[input("enter a element of list is")]

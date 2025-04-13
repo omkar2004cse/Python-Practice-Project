@@ -1,0 +1,10 @@
+name="4"
+print(type(name))
+d=int(name)
+print(d,type(d))
+fn=12.44
+print(type(fn))
+fn=int(fn)
+print(fn,type(fn))
+fn=str(fn)
+print(fn,type(fn))

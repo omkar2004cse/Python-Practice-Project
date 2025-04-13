@@ -1,0 +1,6 @@
+eno=int(input("Enter a Employee Number:- "))
+ename=input("Enter a Employee Name:- ")
+esal=float(input("Enter your salary:- "))
+eadd=input("Enter a Address:- ")
+married=(input("Employee married [yes/no]:-" ))
+print("please check the information\nemployee Number:- ",eno,"\nEmployee Name:- ",ename,"\nEmployee salary:- ",esal,"\nEmployee address:- ",eadd,"\nEmployee Married Status:- ",married)

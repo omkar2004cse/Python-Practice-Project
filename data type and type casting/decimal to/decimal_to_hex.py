@@ -1,0 +1,1 @@
+print("Decimmal to hexadecimal is:-",0x101)

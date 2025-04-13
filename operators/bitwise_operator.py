@@ -1,0 +1,7 @@
+a,b=int(input("enter a number a=")),int(input("b="))
+print(a,"&(bitwise AND)",b,"is:-",(a&b))
+print(a,"|(bitwise OR)",b,"is:-",(a|b))
+print(a,"^(bitwise XOR)",b,"is:-",(a^b))
+print("~ (bitwise Complement (NOT))",a,"is:-",~a)
+print("<< (left Shift)",(b<<2))
+print(">> (right shift)",(a>>2))

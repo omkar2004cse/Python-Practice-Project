@@ -1,0 +1,5 @@
+list=eval(input("Enter a element of list is:-"))
+print("list is:-",list)
+print("length of list:-",len(list))
+print("Count of 2 is present in list is:-",list.count(2))
+print("index function calculate the index of 3 element in list is:-",list.index(3))

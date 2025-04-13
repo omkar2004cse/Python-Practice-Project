@@ -1,0 +1,2 @@
+print("omkar" and "durga")
+ 

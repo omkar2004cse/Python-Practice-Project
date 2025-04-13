@@ -1,0 +1,1 @@
+print("Decimal to Octal is:-",0o101)

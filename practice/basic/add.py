@@ -1,0 +1,1 @@
+print("addition of 12 and 13 is:-",12+13)

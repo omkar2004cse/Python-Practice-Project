@@ -1,7 +1,0 @@
-a,b=int(input("Enter a Value of a=")),int(input("Enter a Value of b="))
-print("a>b is:-",(a>b))
-print("a<b is:-",(a<b))
-print("a>=b is:-",(a>=b))
-print("a<=b is:-",(a<=b))
-print("a==b is:-",(a==b))
-print("a!=b is:-",(a!=b))

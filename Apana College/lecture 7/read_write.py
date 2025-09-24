@@ -1,7 +1,0 @@
-f=open("demo.txt","r+")
-d=f.read()
-print(d)
-w=f.write("I an learning coding from python")
-s=f.read()
-print(s)
-f.close()
